@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on **Web Development Projects**
 - 🧠 I’m seeking help in **Backend Development & Deployment**
 - 🌱 I’m currently learning **Python & Cyber Security**
-- 💬 Ask me about **HTML, Python, and Web Development**
+- 💬 Ask me about **HTML, Python, and Cyber Security**
 - ⚡ Fun fact: *I love building real-world projects and learning new tech 🚀*
 
 ---
@@ -72,12 +72,7 @@
 
 - 🔐 Become a Cyber Security Expert  
 - 🌍 Build impactful real-world projects  
-- 💼 Get a high-paying tech job  
 
 ---
 
-## ✨ Quote
 
-> "Code. Learn. Build. Repeat." 🔥
-
----
