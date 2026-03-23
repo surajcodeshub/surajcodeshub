@@ -71,8 +71,21 @@
 ## 🎯 Goals
 
 - 🔐 Become a Cyber Security Expert  
-- 🌍 Build impactful real-world projects  
+- 🌍 Build impactful real-world projects
+- ## 🎯 Goals
 
+- 🔐 Become a Cyber Security Expert   
+- 🚀 Build and deploy real-world projects  
+- 📊 Learn Data Structures & Algorithms (DSA)  
+- 🧠 Improve problem-solving skills (LeetCode / HackerRank)    
+- ☁️ Learn Cloud (AWS / Vercel / Deployment)  
+- 🤝 Contribute to Open Source Projects  
+- ## 🎯 2026 Goals
+
+- 🚀 Launch 3+ live projects  
+- 🔐 Start Cyber Security learning path  
+- 💻 Become confident in Backend Development  
+- 🌍 Build personal portfolio website  
 ---
 
 
