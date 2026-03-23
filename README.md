@@ -29,9 +29,10 @@
   <a href="https://x.com/SurajKu2566230">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:surajk75395@gmail.com">
+  <a href="mailto:surajk75395@gmail.com" title="surajk75395@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
 </p>
 
 ---
