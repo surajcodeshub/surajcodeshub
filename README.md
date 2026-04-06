@@ -68,10 +68,6 @@
 
 ---
 
-## 🎯 Goals
-
-- 🔐 Become a Cyber Security Expert  
-- 🌍 Build impactful real-world projects
 - ## 🎯 Goals
 
 - 🔐 Become a Cyber Security Expert   
